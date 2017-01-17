@@ -1,2 +1,2 @@
 # gitflow
-scripts to make branching and generic repositorio maintaining easier.
+Scripts to make branching and maintaining repositories easier.

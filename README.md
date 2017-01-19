@@ -3,7 +3,7 @@ Scripts to make branching and maintaining repositories easier.
 
 ## Setting Up
 
-Make this repositorio a subrepo/subfolder somewhere inside your repo.
+Make this repositorio a [subrepo](https://github.com/ingydotnet/git-subrepo)/subfolder somewhere inside your repo.
 
 Add a scripts folder to the root of your project.
 
